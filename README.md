@@ -70,4 +70,4 @@ The Power BI dashboard includes four pages:
 Client names and identifying details have been removed or anonymized where necessary. Revenue figures and business metrics are shared with the business owner's permission as part of a professional portfolio.
 
 ---
-**Nya Obiefuna** | Data & Growth Analyst | [LinkedIn] | [GitHub](https://github.com/NyaObiefuna)
+**Nya Obiefuna** | Data & Growth Analyst | https://www.linkedin.com/in/nya-obiefuna-7262b82a5/ | [GitHub](https://github.com/NyaObiefuna)
